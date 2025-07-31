@@ -43,7 +43,7 @@ password-generator/
 
 ## 💡 Live Preview
 
-![Preview]()
+[Preview](https://gourgit.github.io/Password-Generator/)
 
 ---
 
